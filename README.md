@@ -1,0 +1,7 @@
+My research, projects and writing are on [gustavecortal.com](https://gustavecortal.com).
+
+I'm a research scientist at [Callyope](https://www.callyope.com/), doing natural language processing for mental health. I'm building a safety benchmark for language models. I also [analyze spontaneous speech for psychiatric disorders](https://mental.jmir.org/2026/1/e99185), summarize clinical documents, and optimize inference for clinical workloads.
+
+During my [PhD in natural language processing](https://theses.hal.science/tel-05501345v1) at [ENS Paris-Saclay](https://ens-paris-saclay.fr/), I developed language models to [analyze subjective experience](https://aclanthology.org/2025.emnlp-main.371/) and [connect emotion analysis with cognitive science theories](https://aclanthology.org/2024.cmcl-1.23/).
+
+My [personal projects](https://gustavecortal.com/projects/) explore interpretability ([thought steering](https://gustavecortal.com/thought-steering/)), transformer-based models for niche domains ([psychotherapy](https://gustavecortal.com/projects/#piaget), [dreams](https://gustavecortal.com/projects/#oneirogen), [animal motion](https://gustavecortal.com/animacy/)) and image generation ([ganlive](https://gustavecortal.com/ganlive/), [imagevolve](https://gustavecortal.com/imagevolve/)). Most are optimized for efficient inference in the browser, and each demo's code is in the repositories below.
