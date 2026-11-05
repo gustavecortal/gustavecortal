@@ -9,4 +9,4 @@ Each demo on [my website](https://gustavecortal.com) is built from one of these 
 - [thought steering](https://github.com/gustavecortal/thought-steering) sets how much a language model reframes negative thoughts ([demo](https://gustavecortal.com/thought-steering/)).
 - [animacy](https://github.com/gustavecortal/animacy) is a tiny transformer trained on trajectories of fish and flies ([demo](https://gustavecortal.com/animacy/)).
 
-My models and datasets are on [Hugging Face](https://huggingface.co/gustavecortal).
+My models and datasets are on <a href="https://huggingface.co/gustavecortal"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="20" align="top"></a>
