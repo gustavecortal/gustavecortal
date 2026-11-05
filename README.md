@@ -1,7 +1,12 @@
-My research, projects and writing are on [gustavecortal.com](https://gustavecortal.com).
+I'm a research scientist at [Callyope](https://www.callyope.com/), doing natural language processing for mental health. I hold a [PhD in natural language processing](https://theses.hal.science/tel-05501345v1) from ENS Paris-Saclay.
 
-I'm a research scientist at [Callyope](https://www.callyope.com/), doing natural language processing for mental health. I'm building a safety benchmark for language models. I also [analyze spontaneous speech for psychiatric disorders](https://mental.jmir.org/2026/1/e99185), summarize clinical documents, and optimize inference for clinical workloads.
+Each demo on [my website](https://gustavecortal.com) is built from one of these repositories:
 
-During my [PhD in natural language processing](https://theses.hal.science/tel-05501345v1) at [ENS Paris-Saclay](https://ens-paris-saclay.fr/), I developed language models to [analyze subjective experience](https://aclanthology.org/2025.emnlp-main.371/) and [connect emotion analysis with cognitive science theories](https://aclanthology.org/2024.cmcl-1.23/).
+- [dérive](https://github.com/gustavecortal/derive) recommends rare concepts close to or far from your taste ([live demo](https://gustavecortal.com/concept-space/)).
+- [ganlive](https://github.com/gustavecortal/ganlive) explores the latent space of GANs trained on my photographs in real time ([live demo](https://gustavecortal.com/ganlive/)).
+- [philosophical search](https://github.com/gustavecortal/philosophical-search) does semantic search over passages from philosophy books, encyclopedias and Wikipedia ([live demo](https://gustavecortal.com/philosophical-search/)).
+- [imagevolve](https://github.com/gustavecortal/imagevolve) searches for image transformations that bring your picture closer to your words ([live demo](https://gustavecortal.com/imagevolve/)).
+- [thought steering](https://github.com/gustavecortal/thought-steering) sets how much a language model reframes negative thoughts ([live demo](https://gustavecortal.com/thought-steering/)).
+- [animacy](https://github.com/gustavecortal/animacy) is a tiny transformer trained on trajectories of fish and flies ([live demo](https://gustavecortal.com/animacy/)).
 
-My [personal projects](https://gustavecortal.com/projects/) explore interpretability ([thought steering](https://gustavecortal.com/thought-steering/)), transformer-based models for niche domains ([psychotherapy](https://gustavecortal.com/projects/#piaget), [dreams](https://gustavecortal.com/projects/#oneirogen), [animal motion](https://gustavecortal.com/animacy/)) and image generation ([ganlive](https://gustavecortal.com/ganlive/), [imagevolve](https://gustavecortal.com/imagevolve/)). Most are optimized for efficient inference in the browser, and each demo's code is in the repositories below.
+My models and datasets are on [Hugging Face](https://huggingface.co/gustavecortal).
